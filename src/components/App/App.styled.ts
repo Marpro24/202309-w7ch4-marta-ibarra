@@ -8,10 +8,10 @@ const AppStyled = styled.div`
 
   .main {
     padding-top: 20px;
+  }
 
-    &-header {
-      text-align: center;
-    }
+  .title {
+    text-align: center;
   }
 `;
 
