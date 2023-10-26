@@ -13,6 +13,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "@fontsource/montserrat": "^5.0.15",
     "@types/styled-components": "^5.1.29",
     "lint-staged": "^15.0.2",
     "prettier": "^3.0.3",
